@@ -19,7 +19,7 @@ elif operacao == "4":
     if num2 != 0:
         resultado = num1 / num2
     else:
-        print("Erro: Divisão por zero não é permitida.")
+        print("Erro: Divisão por zero não é permitida!")
         resultado = None
 else:
     print("Operação inválida")
